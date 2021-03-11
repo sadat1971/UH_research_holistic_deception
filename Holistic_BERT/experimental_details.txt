@@ -1,0 +1,2 @@
+This experiment uses the BERT model, where on the top of a BERT only a hidden layer of 50 units and output of 2 layers situated. 
+
